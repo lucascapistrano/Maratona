@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="TopCoder"/>
+	<classpathentry kind="src" path="ContestDeNatal2014"/>
+	<classpathentry kind="src" path="MaratonaDeProgramacaoDaSBC2010"/>
+	<classpathentry kind="src" path="Matematica"/>
+	<classpathentry kind="src" path="XX Maratona de Programação SBC 2015"/>
+	<classpathentry kind="src" path="Estrutura_e_Bibliotecas"/>
+	<classpathentry kind="src" path="Aquecimento para a OBI 2014"/>
+	<classpathentry kind="src" path="Aquecimento_Para_A_OBI_2016"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
